@@ -23,8 +23,6 @@ Frontend
 <li>CSS
 <li>JavaScript
 
-How to run
--
 Download in cmd
 -
 <li>code .
