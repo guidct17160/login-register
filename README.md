@@ -35,8 +35,9 @@ Download in cmd
 How to run
 -
 <li>เปิด VSCode และ download ตัว Live Five Server
-<li>เปิดไฟล์ .html กดคลิ้กขวาและเลือก Open with Five Server
-<li>และสมารถเล่นได้เลยครับ
+<li>เปิดไฟล์ .html 
+<li>กดคลิ้กขวาและเลือก Open with Five Server
+และสมารถเล่นได้เลยครับ
 <img width="1057" height="524" alt="image" src="https://github.com/user-attachments/assets/ec068a88-bd07-406d-85af-88c8fd9b7413" />
 
 
@@ -77,13 +78,13 @@ Token นี้จะอยู่ได้ 15 นาที
 
 POST รีเซ็ตรหัส
 -
-ใส่ : http://localhost:3000/reset-password
+ใส่ : http://localhost:3000/reset-password<br>
 นำ Token ที่ได้จากการลืมรหัสมา
 <img width="1089" height="929" alt="image" src="https://github.com/user-attachments/assets/fed5adf2-18ea-4d5a-bdae-73a63b55f2f8" />
 
 GET ลอง Update รหัสผ่านใหม่
 -
-ใส่ : http://localhost:3000/login
+ใส่ : http://localhost:3000/login<br>
 ใส่รหัสที่พึ่งสร้างมาใหม่
 <img width="1085" height="922" alt="image" src="https://github.com/user-attachments/assets/e1e26a39-98cc-4d0b-9d3d-219211e0a145" />
 ถ้าใส่รหัสเก่ามันจะขึ้นแบบนี้
