@@ -19,24 +19,24 @@ Backend
 
 Frontend
 -
-HTML
-CSS
-JavaScript
+<li>HTML
+<li>CSS
+<li>JavaScript
 
 How to run
 -
 Download in cmd
 -
-code .
-npm init -y
-npm i nodemon --save-dev
-npm i express pg dotenv jsonwebtoken bcrypt 
+<li>code .
+<li>npm init -y
+<li>npm i nodemon --save-dev
+<li>npm i express pg dotenv jsonwebtoken bcrypt 
 
 How to run
 -
-เปิด VSCode และ download ตัว Live Five Server
-เปิดไฟล์ .html กดคลิ้กขวาและเลือก Open with Five Server
-และสมารถเล่นได้เลยครับ
+<li>เปิด VSCode และ download ตัว Live Five Server
+<li>เปิดไฟล์ .html กดคลิ้กขวาและเลือก Open with Five Server
+<li>และสมารถเล่นได้เลยครับ
 <img width="1057" height="524" alt="image" src="https://github.com/user-attachments/assets/ec068a88-bd07-406d-85af-88c8fd9b7413" />
 
 
