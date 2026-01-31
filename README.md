@@ -9,12 +9,12 @@ Login / Register (Node.js + PostgreSQL)
 -
 Backend
 -
-Node.js
-Express.js
-JWT(jsonwebtoken)
-bcrypt
-dotenv
-cors (จะได้เชื่อม Frontend ได้)
+-Node.js
+-Express.js
+-JWT(jsonwebtoken)
+-bcrypt
+-dotenv
+-cors (จะได้เชื่อม Frontend ได้)
 
 Frontend
 -
